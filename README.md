@@ -1,4 +1,4 @@
-https://github.com/bigbangcmu/bigbang/blob/bigbangcmu/BME680%20Sensor/%5B%20Multi%20%5D%20-%20BME680%20Sensor.jpg?raw=true
+![](https://github.com/bigbangcmu/bigbang/blob/bigbangcmu/BME680%20Sensor/%5B%20Multi%20%5D%20-%20BME680%20Sensor.jpg?raw=true)
 
 # BME680-Sensor
 **The BME680 Sensor** is a compact 4-in-1 environmental sensor capable of measuring temperature, humidity, air pressure, and air quality (gas). It is ideal for weather and air quality monitoring applications, offering low power consumption and reliable performance. The sensor communicates with microcontrollers such as Arduino, ESP8266, and ESP32 via the I²C interface and operates on a supply voltage of 3.3–5 V.
